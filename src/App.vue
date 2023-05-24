@@ -1,5 +1,5 @@
 <template>
-  <div>App</div>
+  <div>App-增加性能</div>
 </template>
 
 <script setup lang="ts"></script>
