@@ -6,4 +6,5 @@ const fun = () =>
  {
   console.log("000");
 };
+
 fun();
